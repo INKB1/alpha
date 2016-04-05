@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Surfe de trem.unity
+  isLoaded: 1
+  isActive: 1
