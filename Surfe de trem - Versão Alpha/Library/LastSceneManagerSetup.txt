@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/_Scenes/Scene1-Japan.unity
+=======
+- path: Assets/Surfe de trem.unity
+>>>>>>> origin/master
   isLoaded: 1
   isActive: 1
