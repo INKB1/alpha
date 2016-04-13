@@ -73,6 +73,8 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\_Scripts\BackgroundScroller.cs" />
+    <Compile Include="Assets\_Scripts\MoveOffset.cs" />
     <Compile Include="Assets\_Scripts\PlataformController.cs" />
   </ItemGroup>
   <ItemGroup>
