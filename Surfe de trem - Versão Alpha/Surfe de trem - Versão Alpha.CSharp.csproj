@@ -74,7 +74,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\_Scripts\BackgroundScroller.cs" />
+    <Compile Include="Assets\_Scripts\DestroyByBoundary.cs" />
+    <Compile Include="Assets\_Scripts\DestroyByContact.cs" />
+    <Compile Include="Assets\_Scripts\GameController.cs" />
     <Compile Include="Assets\_Scripts\MoveOffset.cs" />
+    <Compile Include="Assets\_Scripts\Mover.cs" />
     <Compile Include="Assets\_Scripts\PlataformController.cs" />
   </ItemGroup>
   <ItemGroup>
