@@ -2,9 +2,28 @@
 using System.Collections;
 
 public class DestroyByVisibility : MonoBehaviour {
-	void OnBecameInvisible(){
+
+    private GameController gameController;
+    public int scoreValue;
+    void Start()
+    {
+        GameObject gameControllerObject = GameObject.FindWithTag("GameController");
+        if (gameControllerObject != null)
+        {
+            gameController = gameControllerObject.GetComponent<GameController>();
+        }
+        if (gameController == null)
+        {
+            Debug.Log("Cannot find 'GameController' script");
+        }
+    }
+
+    void OnBecameInvisible(){
 		if (gameObject.name != "Avião") {
 			Destroy (this.gameObject);
+            gameController.AddScore(scoreValue);
 		}
 	}
+
+
 }
