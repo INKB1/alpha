@@ -72,6 +72,7 @@
     <Compile Include="Assets\_Scripts\DestroyByContact.cs" />
     <Compile Include="Assets\_Scripts\DestroyByVisibility.cs" />
     <Compile Include="Assets\_Scripts\GameController.cs" />
+    <Compile Include="Assets\_Scripts\MenuController.cs" />
     <Compile Include="Assets\_Scripts\MoveOffset.cs" />
     <Compile Include="Assets\_Scripts\Mover.cs" />
     <Compile Include="Assets\_Scripts\PlataformController.cs" />
