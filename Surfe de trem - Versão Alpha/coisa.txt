@@ -1,0 +1,4 @@
+public class EU
+{
+	System.out.println("Isso nao faz nada");
+}
