@@ -1,0 +1,3 @@
+public class KillMe{
+	System.out.println("Hello my fucking World");
+}
