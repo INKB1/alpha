@@ -20,7 +20,7 @@ public class MenuController : MonoBehaviour {
     {
         if (GUI.Button(Rect(Screen.width/2, Screen.height/2, 90, 90),"Start"))
         {
-            SceneManager.LoadScene("Scene 1");
+            SceneManager.LoadScene("Scene1 - Japan");
         }
     }
     */
