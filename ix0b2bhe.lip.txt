@@ -1,0 +1,167 @@
+﻿Merge remote-tracking branch 'origin/master'
+
+# Conflicts:
+#	Surfe de trem - Versão Alpha/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+#	Surfe de trem - Versão Alpha/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll.mdb
+#	Surfe de trem - Versão Alpha/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+#	Surfe de trem - Versão Alpha/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll.mdb
+#	Surfe de trem - Versão Alpha/Library/ScriptAssemblies/Assembly-CSharp.dll
+#	Surfe de trem - Versão Alpha/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+#	Surfe de trem - Versão Alpha/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+#	Surfe de trem - Versão Alpha/Library/UnityAssemblies/UnityEditor.Advertisements.dll
+#	Surfe de trem - Versão Alpha/Library/UnityAssemblies/UnityEditor.Android.Extensions.dll
+#	Surfe de trem - Versão Alpha/Library/UnityAssemblies/UnityEditor.EditorTestsRunner.dll
+#	Surfe de trem - Versão Alpha/Library/UnityAssemblies/UnityEditor.Graphs.dll
+#	Surfe de trem - Versão Alpha/Library/UnityAssemblies/UnityEditor.Networking.dll
+#	Surfe de trem - Versão Alpha/Library/UnityAssemblies/UnityEditor.OSXStandalone.Extensions.dll
+#	Surfe de trem - Versão Alpha/Library/UnityAssemblies/UnityEditor.TreeEditor.dll
+#	Surfe de trem - Versão Alpha/Library/UnityAssemblies/UnityEditor.UI.dll
+#	Surfe de trem - Versão Alpha/Library/UnityAssemblies/UnityEditor.WindowsStandalone.Extensions.dll
+#	Surfe de trem - Versão Alpha/Library/UnityAssemblies/UnityEditor.dll
+#	Surfe de trem - Versão Alpha/Library/UnityAssemblies/UnityEditor.iOS.Extensions.Common.dll
+#	Surfe de trem - Versão Alpha/Library/UnityAssemblies/UnityEditor.iOS.Extensions.Xcode.dll
+#	Surfe de trem - Versão Alpha/Library/UnityAssemblies/UnityEditor.iOS.Extensions.dll
+#	Surfe de trem - Versão Alpha/Library/UnityAssemblies/UnityEngine.Networking.dll
+#	Surfe de trem - Versão Alpha/Library/UnityAssemblies/UnityEngine.UI.dll
+#	Surfe de trem - Versão Alpha/Library/UnityAssemblies/UnityEngine.dll
+#	Surfe de trem - Versão Alpha/Library/UnityAssemblies/version.txt
+#	Surfe de trem - Versão Alpha/Library/assetDatabase3
+#	Surfe de trem - Versão Alpha/Library/metadata/00/00000000000000002000000000000000
+#	Surfe de trem - Versão Alpha/Library/metadata/00/00000000000000003000000000000000
+#	Surfe de trem - Versão Alpha/Library/metadata/00/00000000000000004000000000000000
+#	Surfe de trem - Versão Alpha/Library/metadata/00/00000000000000004100000000000000
+#	Surfe de trem - Versão Alpha/Library/metadata/00/00000000000000005000000000000000
+#	Surfe de trem - Versão Alpha/Library/metadata/00/00000000000000005100000000000000
+#	Surfe de trem - Versão Alpha/Library/metadata/00/00000000000000006000000000000000
+#	Surfe de trem - Versão Alpha/Library/metadata/00/00000000000000006100000000000000
+#	Surfe de trem - Versão Alpha/Library/metadata/00/00000000000000007000000000000000
+#	Surfe de trem - Versão Alpha/Library/metadata/00/00000000000000007100000000000000
+#	Surfe de trem - Versão Alpha/Library/metadata/00/00000000000000008000000000000000
+#	Surfe de trem - Versão Alpha/Library/metadata/00/00000000000000008100000000000000
+#	Surfe de trem - Versão Alpha/Library/metadata/00/00000000000000009000000000000000
+#	Surfe de trem - Versão Alpha/Library/metadata/00/0000000000000000a000000000000000
+#	Surfe de trem - Versão Alpha/Library/metadata/00/0000000000000000a100000000000000
+#	Surfe de trem - Versão Alpha/Library/metadata/00/0000000000000000b000000000000000
+#	Surfe de trem - Versão Alpha/Library/metadata/00/0000000000000000c000000000000000
+#	Surfe de trem - Versão Alpha/Library/metadata/06/0626b924325d1c34cafa6b22297f4e4f
+#	Surfe de trem - Versão Alpha/Library/metadata/06/0626b924325d1c34cafa6b22297f4e4f.info
+#	Surfe de trem - Versão Alpha/Library/metadata/0c/0c6271a290ef75b4c97d58746c86c5b8
+#	Surfe de trem - Versão Alpha/Library/metadata/0c/0c6271a290ef75b4c97d58746c86c5b8.info
+#	Surfe de trem - Versão Alpha/Library/metadata/0d/0df3c90c3c0575d4ab0f42cf843396c0
+#	Surfe de trem - Versão Alpha/Library/metadata/0d/0df3c90c3c0575d4ab0f42cf843396c0.info
+#	Surfe de trem - Versão Alpha/Library/metadata/0e/0e7567ab40fd92841a41b5a32175644b
+#	Surfe de trem - Versão Alpha/Library/metadata/0e/0e7567ab40fd92841a41b5a32175644b.info
+#	Surfe de trem - Versão Alpha/Library/metadata/0e/0ed6075022e2aca44bdc66261d3afe68
+#	Surfe de trem - Versão Alpha/Library/metadata/0e/0ed6075022e2aca44bdc66261d3afe68.info
+#	Surfe de trem - Versão Alpha/Library/metadata/12/12ef7cbdfe0e143fa858a324456c8979.info
+#	Surfe de trem - Versão Alpha/Library/metadata/1d/1d0c184845252df44a655359de388cb8.info
+#	Surfe de trem - Versão Alpha/Library/metadata/21/2174d546c03e7914ebb8ddc0e37914bc
+#	Surfe de trem - Versão Alpha/Library/metadata/21/2174d546c03e7914ebb8ddc0e37914bc.info
+#	Surfe de trem - Versão Alpha/Library/metadata/3c/3c0ad459c1534645b5d603b7cc258f97
+#	Surfe de trem - Versão Alpha/Library/metadata/3d/3d8675433a508ec47b8f895201eacf20.info
+#	Surfe de trem - Versão Alpha/Library/metadata/49/49b611e658efbf443b686a4036f74fe3
+#	Surfe de trem - Versão Alpha/Library/metadata/49/49b611e658efbf443b686a4036f74fe3.info
+#	Surfe de trem - Versão Alpha/Library/metadata/4d/4db017495c69e8140a56a0e2b669e3f8
+#	Surfe de trem - Versão Alpha/Library/metadata/4d/4db017495c69e8140a56a0e2b669e3f8.info
+#	Surfe de trem - Versão Alpha/Library/metadata/52/527ff8c94beb33e4c9135ceface815f7
+#	Surfe de trem - Versão Alpha/Library/metadata/52/527ff8c94beb33e4c9135ceface815f7.info
+#	Surfe de trem - Versão Alpha/Library/metadata/54/5485e2f56028a3c4cb54f5caa167377e
+#	Surfe de trem - Versão Alpha/Library/metadata/54/5485e2f56028a3c4cb54f5caa167377e.info
+#	Surfe de trem - Versão Alpha/Library/metadata/5b/5b1a64ea234fb2343b8d0686c51280de
+#	Surfe de trem - Versão Alpha/Library/metadata/5b/5b1a64ea234fb2343b8d0686c51280de.info
+#	Surfe de trem - Versão Alpha/Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7
+#	Surfe de trem - Versão Alpha/Library/metadata/6d/6db4eedec0998cf44a5a9be4dfd98ba1
+#	Surfe de trem - Versão Alpha/Library/metadata/6d/6db4eedec0998cf44a5a9be4dfd98ba1.info
+#	Surfe de trem - Versão Alpha/Library/metadata/73/739bbd9f364b4268874f9fd86ab3beef
+#	Surfe de trem - Versão Alpha/Library/metadata/74/74c1c6d212d6cfc489432ad8be2ecbd3
+#	Surfe de trem - Versão Alpha/Library/metadata/74/74c1c6d212d6cfc489432ad8be2ecbd3.info
+#	Surfe de trem - Versão Alpha/Library/metadata/7c/7cbab2be89b54486bbd23a6fe637d30e
+#	Surfe de trem - Versão Alpha/Library/metadata/80/803baf1ea73913f46b25e07d0a79df22
+#	Surfe de trem - Versão Alpha/Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f
+#	Surfe de trem - Versão Alpha/Library/metadata/82/827c9cd4a3943534f909ac6473e17288
+#	Surfe de trem - Versão Alpha/Library/metadata/82/827c9cd4a3943534f909ac6473e17288.info
+#	Surfe de trem - Versão Alpha/Library/metadata/85/852e56802eb941638acbb491814497b0
+#	Surfe de trem - Versão Alpha/Library/metadata/87/870353891bb340e2b2a9c8707e7419ba
+#	Surfe de trem - Versão Alpha/Library/metadata/8e/8e0cd8ed44d4412cbe0642067abc9e44
+#	Surfe de trem - Versão Alpha/Library/metadata/8f/8fb98a6035269e64a998f9b56828fc4f
+#	Surfe de trem - Versão Alpha/Library/metadata/97/97decbdab0634cdd991f8d23ddf0dead
+#	Surfe de trem - Versão Alpha/Library/metadata/98/9866a92691696b346901281f2b329034
+#	Surfe de trem - Versão Alpha/Library/metadata/98/9866a92691696b346901281f2b329034.info
+#	Surfe de trem - Versão Alpha/Library/metadata/9d/9d7c6e4896067aa4fa512a00f692ac1c
+#	Surfe de trem - Versão Alpha/Library/metadata/9d/9d7c6e4896067aa4fa512a00f692ac1c.info
+#	Surfe de trem - Versão Alpha/Library/metadata/9e/9e1a2edf6149977479db158e4fbf9671
+#	Surfe de trem - Versão Alpha/Library/metadata/a3/a3983c59ebf804b4abba687bd7c9e92f
+#	Surfe de trem - Versão Alpha/Library/metadata/a3/a3983c59ebf804b4abba687bd7c9e92f.info
+#	Surfe de trem - Versão Alpha/Library/metadata/a9/a94c9a7eb94ceec4a8d67a1890e22e51
+#	Surfe de trem - Versão Alpha/Library/metadata/a9/a94c9a7eb94ceec4a8d67a1890e22e51.info
+#	Surfe de trem - Versão Alpha/Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f
+#	Surfe de trem - Versão Alpha/Library/metadata/b1/b153e4ea85f33aa48bf6ef3553a7c209
+#	Surfe de trem - Versão Alpha/Library/metadata/bc/bc4bb18ddac733f408a120212e84c376
+#	Surfe de trem - Versão Alpha/Library/metadata/cb/cbbabe9e292f5604897926494bb38fef
+#	Surfe de trem - Versão Alpha/Library/metadata/cb/cbbabe9e292f5604897926494bb38fef.info
+#	Surfe de trem - Versão Alpha/Library/metadata/d3/d3af3735849287644b1b3d4197c9a2fa
+#	Surfe de trem - Versão Alpha/Library/metadata/d3/d3af3735849287644b1b3d4197c9a2fa.info
+#	Surfe de trem - Versão Alpha/Library/metadata/d4/d40c191aa46654db7a426d6a1fa3aa30
+#	Surfe de trem - Versão Alpha/Library/metadata/e4/e4f1fee3de32377429fd1348fae62b10
+#	Surfe de trem - Versão Alpha/Library/metadata/e4/e4f1fee3de32377429fd1348fae62b10.info
+#	Surfe de trem - Versão Alpha/Library/metadata/ea/ea5873cfd9158664f89459f0c9e1d853
+#	Surfe de trem - Versão Alpha/Library/metadata/ea/ea5873cfd9158664f89459f0c9e1d853.info
+#	Surfe de trem - Versão Alpha/Library/metadata/eb/eb5f6e2757c821940b69cf1456f7865a
+#	Surfe de trem - Versão Alpha/Library/metadata/eb/eb5f6e2757c821940b69cf1456f7865a.info
+#	Surfe de trem - Versão Alpha/Library/metadata/eb/eb72c66ca8409924d8cfafafb0ff9500.info
+#	Surfe de trem - Versão Alpha/Library/metadata/f4/f45a39483cf4f914a816af821c9262bb
+#	Surfe de trem - Versão Alpha/Library/metadata/f5/f588d850485d0ae479d73cf3bd0b7b00
+#	Surfe de trem - Versão Alpha/Library/metadata/f5/f588d850485d0ae479d73cf3bd0b7b00.info
+#	Surfe de trem - Versão Alpha/Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8
+#	Surfe de trem - Versão Alpha/Library/metadata/fc/fc67a9002ed4034419f91d0d85bd6b24
+#	Surfe de trem - Versão Alpha/Library/metadata/fe/feda0c18015b3284cabbc0da85254f9a
+#	Surfe de trem - Versão Alpha/Surfe de trem - Versão Alpha.CSharp.Editor.csproj
+#	Surfe de trem - Versão Alpha/Surfe de trem - Versão Alpha.CSharp.Plugins.csproj
+#	Surfe de trem - Versão Alpha/Surfe de trem - Versão Alpha.CSharp.csproj
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please remove the file
+#	.git/MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch and 'origin/master' have diverged,
+# and have 1 and 2 different commits each, respectively.
+#   (use "git pull" to merge the remote branch into yours)
+#
+# All conflicts fixed but you are still merging.
+#
+# Changes to be committed:
+#	modified:   "Surfe de trem - Vers\303\243o Alpha/Library/CurrentLayout.dwlt"
+#	modified:   "Surfe de trem - Vers\303\243o Alpha/Library/ScriptAssemblies/BuiltinAssemblies.stamp"
+#	modified:   "Surfe de trem - Vers\303\243o Alpha/Library/UnityAssemblies/version.txt"
+#	modified:   "Surfe de trem - Vers\303\243o Alpha/Library/expandedItems"
+#	modified:   "Surfe de trem - Vers\303\243o Alpha/Library/metadata/01/01cd679a1b9ee48bf9c546f6ce2cb97e.info"
+#	modified:   "Surfe de trem - Vers\303\243o Alpha/Library/metadata/04/04a842e316b6f44bf8da702de26a8ed6.info"
+#	modified:   "Surfe de trem - Vers\303\243o Alpha/Library/metadata/18/18fcd494ab71841d695135246693eb3a.info"
+#	deleted:    "Surfe de trem - Vers\303\243o Alpha/Library/metadata/2b/2b1e9344111c6514d8a9663b844eeedf.info"
+#	modified:   "Surfe de trem - Vers\303\243o Alpha/Library/metadata/52/52bbc15ea4270dd41b5f344967c7530e.info"
+#	modified:   "Surfe de trem - Vers\303\243o Alpha/Library/metadata/76/76d5be8716881984aac61a3d58e2c4fb.info"
+#	modified:   "Surfe de trem - Vers\303\243o Alpha/Library/metadata/80/803baf1ea73913f46b25e07d0a79df22.info"
+#	modified:   "Surfe de trem - Vers\303\243o Alpha/Library/metadata/87/87a2357765801c34292d6718d8b4d770.info"
+#	modified:   "Surfe de trem - Vers\303\243o Alpha/Library/metadata/87/87c316b602156405d92e616621658222.info"
+#	modified:   "Surfe de trem - Vers\303\243o Alpha/Library/metadata/8f/8fb98a6035269e64a998f9b56828fc4f.info"
+#	modified:   "Surfe de trem - Vers\303\243o Alpha/Library/metadata/9e/9e1a2edf6149977479db158e4fbf9671.info"
+#	modified:   "Surfe de trem - Vers\303\243o Alpha/Library/metadata/a3/a3b997593a4f12c4c991490593f3b513"
+#	new file:   "Surfe de trem - Vers\303\243o Alpha/Library/metadata/b1/b153e4ea85f33aa48bf6ef3553a7c209"
+#	modified:   "Surfe de trem - Vers\303\243o Alpha/Library/metadata/b5/b51a3e520f9164da198dc59c8acfccd6.info"
+#	modified:   "Surfe de trem - Vers\303\243o Alpha/Library/metadata/d4/d40c191aa46654db7a426d6a1fa3aa30.info"
+#	modified:   "Surfe de trem - Vers\303\243o Alpha/Library/metadata/d9/d90a8faf6fb9540b084ef2825cc3a5dc.info"
+#	deleted:    "Surfe de trem - Vers\303\243o Alpha/Library/metadata/ed/ed1e6982bc6bc1c4e90eaee5c4c6d695.info"
+#	modified:   "Surfe de trem - Vers\303\243o Alpha/Library/metadata/f4/f45a39483cf4f914a816af821c9262bb.info"
+#	modified:   "Surfe de trem - Vers\303\243o Alpha/Library/metadata/fc/fc67a9002ed4034419f91d0d85bd6b24.info"
+#	modified:   "Surfe de trem - Vers\303\243o Alpha/Library/metadata/fe/feda0c18015b3284cabbc0da85254f9a.info"
+#	modified:   "Surfe de trem - Vers\303\243o Alpha/Library/shadercompiler-UnityShaderCompiler.exe0.log"
+#	modified:   "Surfe de trem - Vers\303\243o Alpha/Surfe de trem - Vers\303\243o Alpha.CSharp.Editor.csproj"
+#	modified:   "Surfe de trem - Vers\303\243o Alpha/Surfe de trem - Vers\303\243o Alpha.CSharp.Plugins.csproj"
+#	modified:   "Surfe de trem - Vers\303\243o Alpha/Surfe de trem - Vers\303\243o Alpha.CSharp.csproj"
+#
+
