@@ -56,6 +56,8 @@
      <Compile Include="Assets\_Scripts\MoveOffset.cs" />
      <Compile Include="Assets\_Scripts\Mover.cs" />
      <Compile Include="Assets\_Scripts\PlataformController.cs" />
+     <Compile Include="Assets\_Scripts\Platformer2DUserControl.cs" />
+     <Compile Include="Assets\_Scripts\PlatformerCharacter2D.cs" />
      <Compile Include="Assets\_Scripts\Standard Assets\2D\Scripts\Camera2DFollow.cs" />
      <Compile Include="Assets\_Scripts\Standard Assets\2D\Scripts\CameraFollow.cs" />
      <Compile Include="Assets\_Scripts\Standard Assets\2D\Scripts\Platformer2DUserControl.cs" />
