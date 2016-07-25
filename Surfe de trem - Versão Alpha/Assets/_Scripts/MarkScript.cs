@@ -13,8 +13,20 @@ public class MarkScript : MonoBehaviour
     int countJump = 0;
     Renderer carga1, carga2, carga3, carga4;
     public GameObject go1, go2, go3, go4;
+    bool m_GroundCheck = false;
 
-  
+  void OnCollisionEnter2D(Collision2D coll)
+    {
+        if (coll.gameObject.tag == "Ground")
+        {
+            m_GroundCheck = true;
+        }else
+        {
+            m_GroundCheck = false;
+        }
+        Debug.Log(m_GroundCheck);
+    }
+
   void Start()
   {
     anim = GetComponent<Animator>();
@@ -32,21 +44,27 @@ public class MarkScript : MonoBehaviour
 
   void Update()
   {
-    if (Input.GetKeyDown(KeyCode.Space))
+    if (Input.GetKeyDown(KeyCode.Space) && m_GroundCheck)
     {
+      m_GroundCheck = false;
+      //Debug.Log(m_GroundCheck);
       anim.SetTrigger (jumpHash);
       rb2d.AddForce(new Vector2(0f, jumpForce));
             anim.Play("Jump");
     }
-    if (Input.GetKeyDown(KeyCode.Z))
+    if (Input.GetKeyDown(KeyCode.Z) && m_GroundCheck)
     {
+      //Debug.Log(m_GroundCheck);
+      m_GroundCheck = false;
       anim.SetTrigger (beastHash);
       rb2d.AddForce(new Vector2(0f, jumpForce));
             anim.Play("Beast_Jump");
             jump2 = true;
     }
-    if (Input.GetKeyDown(KeyCode.X))
+    if (Input.GetKeyDown(KeyCode.X) && m_GroundCheck)
     {
+      //Debug.Log(m_GroundCheck);
+      m_GroundCheck = false;
       anim.SetTrigger(extremelyHash);
       rb2d.AddForce(new Vector2(0f, jumpForce));
             anim.Play("Extremely_Jump");
