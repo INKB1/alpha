@@ -4,6 +4,7 @@ using System.Collections;
 public class MarkScript : MonoBehaviour
 {
   Animator anim;
+    private Transform p_Transform;
   private Rigidbody2D rb2d;
   [SerializeField] private float jumpForce = 400f;
   int jumpHash = Animator.StringToHash("Jump");
@@ -29,6 +30,7 @@ public class MarkScript : MonoBehaviour
 
   void Start()
   {
+    p_Transform = GetComponent<Transform>();
     anim = GetComponent<Animator>();
     rb2d = GetComponent<Rigidbody2D>();
     carga1 = go1.GetComponent<Renderer>();
@@ -72,6 +74,7 @@ public class MarkScript : MonoBehaviour
     }
 
         IniciarBarraManobra();
+        p_Transform.Rotate(0.0f, 0.0f, 0.0f);
   }
 
   void FixedUpdate()
