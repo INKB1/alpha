@@ -23,7 +23,7 @@ public class SpawnObjects : MonoBehaviour
         yield return new WaitForSeconds(spawnWait);
         while (true)
         {
-            Vector3 spawnPosition = new Vector3(spawnValues.x, Random.Range(1.2f, 3.4f), spawnValues.z);
+            Vector3 spawnPosition = new Vector3(spawnValues.x, Random.Range(spawnValues.y -1,spawnValues.y +1), spawnValues.z);
             Quaternion spawnRotation = Quaternion.identity;
             Instantiate(hazards[CreateNumber()], spawnPosition, spawnRotation);
             yield return new WaitForSeconds(spawnWait);
