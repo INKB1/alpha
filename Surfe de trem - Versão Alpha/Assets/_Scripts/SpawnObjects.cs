@@ -7,6 +7,7 @@ public class SpawnObjects : MonoBehaviour
     public GameObject go1, go2, go3, go4;
     public float spawnWait;
     private GameObject[] hazards = new GameObject[4];
+    public bool isDynamic = false;
 
 	// Use this for initialization
 	void Start () {
@@ -23,11 +24,19 @@ public class SpawnObjects : MonoBehaviour
         yield return new WaitForSeconds(spawnWait);
         while (true)
         {
-            Vector3 spawnPosition = new Vector3(spawnValues.x, Random.Range(spawnValues.y -1,spawnValues.y +1), spawnValues.z);
-            Quaternion spawnRotation = Quaternion.identity;
-            Instantiate(hazards[CreateNumber()], spawnPosition, spawnRotation);
-            yield return new WaitForSeconds(spawnWait);
-                       
+            if (isDynamic)
+            {
+                Vector3 spawnPosition = new Vector3(spawnValues.x, Random.Range(spawnValues.y - 1, spawnValues.y + 1), spawnValues.z);
+                Quaternion spawnRotation = Quaternion.identity;
+                Instantiate(hazards[CreateNumber()], spawnPosition, spawnRotation);
+                yield return new WaitForSeconds(spawnWait);
+            }else
+            {
+                Vector3 spawnPosition = new Vector3(spawnValues.x, spawnValues.y, spawnValues.z);
+                Quaternion spawnRotation = Quaternion.identity;
+                Instantiate(hazards[CreateNumber()], spawnPosition, spawnRotation);
+                yield return new WaitForSeconds(spawnWait);
+            }
         }
     }
 
