@@ -4,7 +4,7 @@ using System.Collections;
 public class Mover : MonoBehaviour
 {
 	public float hitbox; //se for entre 1 e 0.8 ele acerta o personagem em cheio, entre 0.7 e 0.6 ele passa muito perto
-	public Transform target;
+	private Transform target;
 	private float movex;
 	private float movey;
 	private Rigidbody2D rb2d;
@@ -17,6 +17,7 @@ public class Mover : MonoBehaviour
 	}
 
 	void Start(){
+        target = GameObject.FindWithTag("Player").transform;
 		rb2d = GetComponent<Rigidbody2D> ();
 		movex = target.position.x - transform.position.x;
 		movey = target.position.y - transform.position.y;
