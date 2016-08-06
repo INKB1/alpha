@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
-
+using UnityEngine.SceneManagement;
 public class DestroyByVisibility : MonoBehaviour {
 
     private GameController gameController;
@@ -23,6 +23,11 @@ public class DestroyByVisibility : MonoBehaviour {
 			Destroy (this.gameObject);
             gameController.AddScore(scoreValue);
 		}
+        if (gameObject.tag == "Player")
+        {
+            SceneManager.LoadScene("SceneX-GameOver");
+            Debug.Log(gameObject.tag);
+        }
 	}
 
 
